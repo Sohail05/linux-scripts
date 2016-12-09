@@ -1,0 +1,8 @@
+#!/bin/sh
+
+sh ~/git-ssh.sh
+
+for d in ./*/
+do
+    ( cd $d && git pull && git push )
+done
