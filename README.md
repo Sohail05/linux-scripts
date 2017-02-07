@@ -1,5 +1,5 @@
 # shell-scripts
-un*x snippets and configurations
+Un*x shell scripts, snippets and configurations
 
 
 lemp.sh
