@@ -18,7 +18,7 @@ apt-get install -y mysql-server
  sudo apt-get install -y nginx
 
 #php
- apt-get install -y php php-fpm php-mysql php-curl
+ apt-get install -y php php-fpm php-mysql php-curl php-mbstring php-xml
 
 #git
  apt-get install -y git
